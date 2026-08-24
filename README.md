@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 NICKY CASTRO
+# 👋 NICKY NIXON
 
 ### 💻 Developer • Web & Software Development
 
